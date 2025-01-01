@@ -10,6 +10,8 @@ cssclasses:
   - page-white
   - page-grid
 ---
+Inbuilt packages
+
 alsa-utils
 amd-ucode
 arch-install-scripts

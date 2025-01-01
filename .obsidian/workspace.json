@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "20241229"
             }
+          },
+          {
+            "id": "1c6cdf11308b25ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mutaOS/pakages list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pakages list"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +112,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,10 +232,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "12c9f8eb5e064276",
+  "active": "1c6cdf11308b25ef",
   "lastOpenFiles": [
-    "06 - Daily/20241226.md",
+    "06 - Daily/20250101.md",
     "06 - Daily/20241229.md",
+    "06 - Daily/20241226.md",
     "mutaOS/main configs.md",
     "mutaOS/pakages list.md",
     "06 - Daily/20241224.md",
@@ -255,7 +269,6 @@
     "02 - Areas/Placeholder.md",
     "04 - Permanent/Placeholder.md",
     "07 - Archives/Placeholder.md",
-    "01 - Projects/Placeholder.md",
     "Image Bank/nvim3.png",
     "Image Bank/nvim2.png",
     "Image Bank/nvim1.png",
